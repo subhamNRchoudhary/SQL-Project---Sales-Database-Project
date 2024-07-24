@@ -9,6 +9,7 @@ Data Insertion: Multiple records are inserted into the SalesData table to simula
 Queries:
 
 Basic Retrieval: Simple SELECT statements to retrieve all data or specific columns like Gender.
+
 Filtering: Queries to filter records based on conditions such as Gender = 'Female' or SalesAmount between specific values.
 Aggregation: Calculations such as average (AVG) and sum (SUM) of SalesAmount, grouped by Region and filtered by conditions.
 Ordering: Sorting data by SalesAmount in descending order.
